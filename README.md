@@ -18,6 +18,7 @@
 
 ----
 ### React
+[Complementary Tools](https://github.com/facebook/react/wiki/Complementary-Tools): A very formidable list of React tools, by Facebook
 
 [React for Beginners](https://reactforbeginners.com/): React video series by [Wes Bos](https://twitter.com/wesbos?lang=en)
 
