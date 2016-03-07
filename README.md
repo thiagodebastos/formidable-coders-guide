@@ -32,6 +32,8 @@
 
 [React and ES6](http://egorsmirnov.me/2015/05/22/react-and-es6-part1.html): Blog series by Egor Smirnov
 
+[Thinking in React](https://facebook.github.io/react/docs/thinking-in-react): Blog post that will help you visualise a React App by Pete Hunt
+
 ----
 ## CSS
 
