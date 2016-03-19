@@ -31,6 +31,10 @@
 
 [React and ES6](http://egorsmirnov.me/2015/05/22/react-and-es6-part1.html): Blog series by Egor Smirnov
 
+[Webpack and React](http://survivejs.com/webpack_react/introduction/): A free ebook deep dive into React and Webpack
+
+[React Performance - 2 part series](http://jaero.space/blog/react-performance-1): Optimising React for Performance
+
 ----
 ## CSS
 
@@ -73,3 +77,9 @@
 [https://www.workshape.io/](https://www.workshape.io/)
 
 [https://hired.com.au/](https://hired.com.au/)
+
+----
+## ToDo
+- organise sources
+  - organise blogs, videos etc
+  - perhaps add to a course or carriculum
