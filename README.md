@@ -18,6 +18,7 @@
 
 ----
 ### React
+[Complementary Tools](https://github.com/facebook/react/wiki/Complementary-Tools): A very formidable list of React tools, by Facebook
 
 [React for Beginners](https://reactforbeginners.com/): React video series by [Wes Bos](https://twitter.com/wesbos?lang=en)
 
@@ -31,9 +32,7 @@
 
 [React and ES6](http://egorsmirnov.me/2015/05/22/react-and-es6-part1.html): Blog series by Egor Smirnov
 
-[Webpack and React](http://survivejs.com/webpack_react/introduction/): A free ebook deep dive into React and Webpack
-
-[React Performance - 2 part series](http://jaero.space/blog/react-performance-1): Optimising React for Performance
+Thinking in React - [Original Article](https://facebook.github.io/react/docs/thinking-in-react) by Pete Hunt and [Video](http://tagtree.tv/thinking-in-react) with an accompanying blog post by Hendrik Swanepoel. These resources will help you better visualise a React app.
 
 ----
 ## CSS
@@ -58,6 +57,8 @@
 [Which Browser Extensions do Web Developers Use?](http://blog.reybango.com/2016/01/20/which-browser-extensions-do-web-developers-use/): A blog post about browser experiments
 
 [eslint-config-airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb)
+
+[Mockaroo](https://www.mockaroo.com/): Realistic data generator for testing
 
 ----
 ## DesignTools
