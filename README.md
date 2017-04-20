@@ -42,6 +42,12 @@ Thinking in React - [Original Article](https://facebook.github.io/react/docs/thi
 
 ----
 
+### Redux
+
+[Practical Redux](http://blog.isquaredsoftware.com/series/practical-redux/): a series covering Redux techniques based on [Mark Erikson's](https://github.com/markerikson) experience.
+
+----
+
 ## CSS
 
 [CSS Protips](https://github.com/AllThingsSmitty/css-protips): A collection of tips to help take your CSS skills pro.
